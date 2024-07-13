@@ -4,9 +4,6 @@
 Projeto desenvolvido em Python referente ao NLW - Journey
 
 
-
-
-
 ## 🛠 Skills
 Python, PIP, Flask, SQLite3
 
